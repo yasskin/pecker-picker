@@ -1,14 +1,14 @@
-# _Pecker Picker_
+## _Pecker Picker_
 
-#### _A harmless Web application that enables people to peck and pick a preferred word out of some prose or an entire paragraph irrespective of punctuation, {July 1, 2016}_
+#### _A harmless Web application that enables people to peck and pick a preferred word out of some prose or an entire paragraph irrespective of punctuation, July 1, 2016_
 
 #### By _**Noah Yasskin**_
 
 ## Description
 
-_A [pecker] (http://www.dictionary.com/browse/pecker?s=t) is a person or thing that pecks, as a bird does, taking bit by bit, as with a beak. _
-_A [picker] (http://www.dictionary.com/browse/picker?s=t) is a special tool or machine for picking fruit or vegetables. _
-_A pecker picker is a Web app that searches for one word in a sentence or paragraph of text and returns a value equal to the number of times the target word appears in the text. _
+* _A [pecker] (http://www.dictionary.com/browse/pecker?s=t) is a person or thing that pecks, as a bird does, taking bit by bit, as with a beak.
+* _A [picker] (http://www.dictionary.com/browse/picker?s=t) is a special tool or machine for picking fruit or vegetables. _
+* _A pecker picker is a Web app that searches for one word in a sentence or paragraph of text and returns a value equal to the number of times the target word appears in the text. _
 
 
 ## Setup/Installation Requirements
