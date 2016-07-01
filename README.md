@@ -14,10 +14,9 @@
 ## Setup/Installation Requirements
 
 * _This is a simple Web application that should run in modern browsers_
-* _It is live an usable on gh-pages:_
-[Pecker Picker on GitHub] (https://yasskin.github.io/pecker-picker/ "GitHub gh-pages")
+
 * _And on Heroku:_
-[Pecker Picker on Heroku] (https://red-keener-88476.herokuapp.com/ / "Heroku")
+[Pecker Picker on Heroku] (https://red-keener-88476.herokuapp.com/)
 
 
 ## Known Bugs
