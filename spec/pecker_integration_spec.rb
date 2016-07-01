@@ -9,8 +9,8 @@ describe('the peck and pick path to the pecker picker results', {:type => :featu
     visit('/')
     fill_in('prose', :with => 'peter')
     fill_in('pick', :with => 'peter')
-    click_button('peck')
-    expect(page).to have_content(1)
+    click_button('Submit')
+    expect(page).to have_content("1")
   end
 
 end

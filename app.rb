@@ -7,9 +7,9 @@ get('/') do
   erb(:index)
 end
 
-get('/target') do
-  @prose_input = params.fetch('prose')
-  @pick = params.fech('pick')
-  erb(:target)
-  @pp_result = @prose_input.pecker_picker(@pick)
+get('/results') do
+  @prose = params.fetch('prose')
+  @pick = params.fetch('pick')
+  @pp_result = @prose.pecker_picker(@pick)
+  erb(:results)
 end
