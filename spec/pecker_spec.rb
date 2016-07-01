@@ -19,4 +19,12 @@ describe('String#pecker_picker') do
     expect("peter piper picked a pack of pickele peppers. how many peppers did peter piper pick?".pecker_picker("peter")).to(eq(2))
   end
 
+  it("it handles capitalization to tells the user how many times their selected word appears in another string intput with multiple words") do
+    expect("Peter piper picked a pack".pecker_picker("peter")).to(eq(1))
+  end
+
+  it("it handles punctuation to tells the user how many times their selected word appears in another string intput with multiple words") do
+    expect("Peter, piper picked a pack; peter?".pecker_picker("peter")).to(eq(2))
+  end
+
 end
