@@ -6,6 +6,7 @@
 
 ## Description
 
+_Pecking and Picking_
 * _A [pecker] (http://www.dictionary.com/browse/pecker?s=t) is a person or thing that pecks, as a bird does, taking bit by bit, as with a beak.
 * _A [picker] (http://www.dictionary.com/browse/picker?s=t) is a special tool or machine for picking fruit or vegetables. _
 * _Woody's Peck-'n-Pick is a Web app that searches for one word in a sentence or paragraph of text and returns a value equal to the number of times the target word appears in the text. _
@@ -13,10 +14,10 @@
 
 ## Setup/Installation Requirements
 
-* _This is a simple Web application that should run in modern browsers_
+* _This is a simple Web application that should run in modern browsers._
 
 * _And on Heroku:_
-[Pecker Picker on Heroku] (https://red-keener-88476.herokuapp.com/)
+* _[Woody's Peck-'n-Pick] (https://sleepy-hollows-66870.herokuapp.com)
 
 
 ## Known Bugs
